@@ -1,0 +1,20 @@
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Client\cs408TermClient\bin\Debug\cs408TermClient.exe.config
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Client\cs408TermClient\bin\Debug\cs408TermClient.exe
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Client\cs408TermClient\bin\Debug\cs408TermClient.pdb
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Client\cs408TermClient\obj\Debug\cs408TermClient.csprojAssemblyReference.cache
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Client\cs408TermClient\obj\Debug\cs408TermClient.Form1.resources
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Client\cs408TermClient\obj\Debug\cs408TermClient.Properties.Resources.resources
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Client\cs408TermClient\obj\Debug\cs408TermClient.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Client\cs408TermClient\obj\Debug\cs408TermClient.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Client\cs408TermClient\obj\Debug\cs408TermClient.exe
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Client\cs408TermClient\obj\Debug\cs408TermClient.pdb
+C:\Users\fatih\Desktop\Project\Client\cs408TermClient\bin\Debug\cs408TermClient.exe.config
+C:\Users\fatih\Desktop\Project\Client\cs408TermClient\bin\Debug\cs408TermClient.exe
+C:\Users\fatih\Desktop\Project\Client\cs408TermClient\bin\Debug\cs408TermClient.pdb
+C:\Users\fatih\Desktop\Project\Client\cs408TermClient\obj\Debug\cs408TermClient.csprojAssemblyReference.cache
+C:\Users\fatih\Desktop\Project\Client\cs408TermClient\obj\Debug\cs408TermClient.Form1.resources
+C:\Users\fatih\Desktop\Project\Client\cs408TermClient\obj\Debug\cs408TermClient.Properties.Resources.resources
+C:\Users\fatih\Desktop\Project\Client\cs408TermClient\obj\Debug\cs408TermClient.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\Project\Client\cs408TermClient\obj\Debug\cs408TermClient.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\Project\Client\cs408TermClient\obj\Debug\cs408TermClient.exe
+C:\Users\fatih\Desktop\Project\Client\cs408TermClient\obj\Debug\cs408TermClient.pdb

@@ -1,0 +1,20 @@
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Server\server\bin\Debug\server.exe.config
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Server\server\bin\Debug\server.exe
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Server\server\bin\Debug\server.pdb
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Server\server\obj\Debug\server.Form1.resources
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Server\server\obj\Debug\server.exe
+C:\Users\fatih\Desktop\Term Project\CS408TermProject\Server\server\obj\Debug\server.pdb
+C:\Users\fatih\Desktop\Project\Server\server\bin\Debug\server.exe.config
+C:\Users\fatih\Desktop\Project\Server\server\bin\Debug\server.exe
+C:\Users\fatih\Desktop\Project\Server\server\bin\Debug\server.pdb
+C:\Users\fatih\Desktop\Project\Server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\fatih\Desktop\Project\Server\server\obj\Debug\server.Form1.resources
+C:\Users\fatih\Desktop\Project\Server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\fatih\Desktop\Project\Server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\fatih\Desktop\Project\Server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\fatih\Desktop\Project\Server\server\obj\Debug\server.exe
+C:\Users\fatih\Desktop\Project\Server\server\obj\Debug\server.pdb
